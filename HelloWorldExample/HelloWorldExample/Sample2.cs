@@ -13,7 +13,7 @@ namespace HelloWorldExample
             int num = 0;
             Console.WriteLine("Enter integer Value");
             num = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("num = " + num);
+            Console.WriteLine("num = " +num);
             Console.ReadKey();
         }
     }
