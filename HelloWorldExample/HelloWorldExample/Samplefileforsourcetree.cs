@@ -11,6 +11,7 @@ namespace HelloWorldExample
         static void main()
         {
             Console.WriteLine("Hello World Sample Example");
+            Console.WriteLine("Hi");
             Console.ReadKey();
         }
     }
