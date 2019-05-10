@@ -12,6 +12,7 @@ namespace HelloWorldExample
         {
             
             Console.WriteLine("This is the sample file for Testing JIRA workflow triggers");
+            Console.WriteLine("This is commit is to check how the trigger is working when we create pull request");
             Console.ReadKey();
             
         }
