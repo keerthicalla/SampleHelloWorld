@@ -18,6 +18,7 @@ namespace HelloWorldExample
             b = Convert.ToInt32(Console.ReadLine());
             c = a + b;
             Console.WriteLine("Addition is" + c);
+            Console.ReadKey();
          }
     }
 }
