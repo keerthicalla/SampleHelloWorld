@@ -10,7 +10,8 @@ namespace HelloWorldExample
     {
         static void main()
         {
-            Console.WriteLine("This is to test workflow with Triggers and conditions(Tester approval");
+            Console.WriteLine("This is to test workflow with Triggers and conditions(Tester approval)");
+            Console.WriteLine("HelloWorld!");
             Console.ReadKey();
          }
     }
