@@ -9,10 +9,9 @@ namespace HelloWorldExample
     class Sample3
     {
         static void main()
-        {            
-            Console.WriteLine("This is the sample file for Testing JIRA workflow triggers");
-            Console.WriteLine("This commit is to check how the workflow trigger is working when we create pull request");
-            Console.WriteLine("This commit is to check workflow with Approvals");
+        {
+            Console.WriteLine("This is to test workflow with Triggers and conditions(Tester approval)");
+            Console.WriteLine("Sample line of code:");
             Console.ReadKey();
          }
     }
