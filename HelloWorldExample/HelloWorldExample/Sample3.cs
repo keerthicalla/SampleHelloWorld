@@ -10,8 +10,14 @@ namespace HelloWorldExample
     {
         static void main()
         {
+            int a, b, c;
             Console.WriteLine("This is to test workflow with Triggers and conditions(Tester approval)");
             Console.WriteLine("Sample line of code:");
+            Console.WriteLine("enter any number");
+            a = Convert.ToInt32(Console.ReadLine());
+            b = Convert.ToInt32(Console.ReadLine());
+            c = a + b;
+            Console.WriteLine("Addition is" + c);
             Console.ReadKey();
          }
     }
