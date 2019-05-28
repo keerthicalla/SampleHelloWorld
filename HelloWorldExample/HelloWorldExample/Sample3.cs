@@ -18,6 +18,7 @@ namespace HelloWorldExample
             b = Convert.ToInt32(Console.ReadLine());
             c = a + b;
             Console.WriteLine("Addition is" + c);
+            Console.WriteLine("This is to test Approval email functionality when status changed to Move to Test");
             Console.ReadKey();
          }
     }
