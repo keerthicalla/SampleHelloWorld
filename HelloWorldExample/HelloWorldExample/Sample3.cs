@@ -21,7 +21,7 @@ namespace HelloWorldExample
             Console.WriteLine("Testing the Release Board");
             Console.WriteLine("Testing the Release Board 1");
             Console.WriteLine("Testing KSH-5 again");
-            Console.WriteLine("Testing KSH-7");
+            Console.WriteLine("Testing KSH-7 ");
             Console.ReadKey();
          }
     }
