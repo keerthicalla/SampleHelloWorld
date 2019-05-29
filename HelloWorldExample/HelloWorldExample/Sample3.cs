@@ -18,6 +18,7 @@ namespace HelloWorldExample
             c = a + b;
             Console.WriteLine("Addition is" + c);
             Console.WriteLine("This is to test Approval email functionality when status changed from in-progress to Move to Test");
+            Console.WriteLine("Testing the Release Board");
             Console.ReadKey();
          }
     }
